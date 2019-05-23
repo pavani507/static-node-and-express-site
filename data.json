@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "~ generates a random quote ",
+      "technologies": ["JavaScript"],
+      "livelink": "https://github.com/pavani507/a-random-quote-generator/",
+      "github_link": "https://github.com/pavani507/a-random-quote-generator",
+      "image_urls": ["Random_Quotes_1.png", "Random_Quotes_2.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "~ displays 10 students at a time by using list pagination and filtering",
+      "technologies": ["JavaScript"],
+      "livelink": "https://github.com/pavani507/list-pagination-and-filtering/",
+      "github_link": "https://github.com/pavani507/list-pagination-and-filtering",
+      "image_urls": ["list_pagination_1.png", "list_pagination_1.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "~ registration form for a conference",
+      "technologies": ["JavaScript", "jQuery"],
+      "livelink": "https://github.com/pavani507/interactive-form/",
+      "github_link": "https://github.com/pavani507/interactive-form",
+      "image_urls": ["registration_form_1.png", "registration_form_2.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Object-Oriented Game Show",
+      "description": "~ guessing game",
+      "technologies": ["JavaScript", "jQuery"],
+      "livelink": "https://github.com/pavani507/oop-game-show-app/",
+      "github_link": "https://github.com/pavani507/oop-game-show-app",
+      "image_urls": ["phrase_hunter_1.png", "phrase_hunter_2.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Request",
+      "description": "~ displays 12 employees from an online API",
+      "technologies": ["Fetch API", "JavaScript", "jQuery"],
+      "livelink": "https://github.com/pavani507/public-api-requests/",
+      "github_link": "https://github.com/pavani507/public-api-requests",
+      "image_urls": ["public_api_1.png", "public_api_2.png"]
+    }
+  ]
+}

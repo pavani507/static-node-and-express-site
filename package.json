@@ -1,0 +1,20 @@
+{
+  "name": "static_node_and_express_site-v1",
+  "version": "1.0.0",
+  "description": "express node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:pavani507/static-node-and-express-site-v1.git",
+  "author": "Yarn Contributor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.3",
+    "url": "^0.11.0"
+  }
+}
